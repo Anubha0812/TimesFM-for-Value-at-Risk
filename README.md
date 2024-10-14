@@ -9,8 +9,8 @@ This project evaluates forecast results using the TimesFM model. The TimesFM rep
 The project utilizes the [TimesFM repository](https://github.com/google-research/timesfm) by Google for forecast evaluation. You can adjust key parameters like quantiles and specify the input (`context_len`) and output (`pred_len`) lengths to suit your forecasting needs.
 
 ### Key Parameters
-- Input Length (`context_len`)**: Set to 512 by default, which specifies the number of input time steps.
-- Output Length (`pred_len`)**: Set to 1 by default, indicating the number of steps to forecast.
+- Input Length (`context_len`): Set to 512 by default, which specifies the number of input time steps.
+- Output Length (`pred_len`): Set to 1 by default, indicating the number of steps to forecast.
   
 ### Usage
 To set up the TimesFM model for evaluation, use the following commands to download and load the checkpoint:
