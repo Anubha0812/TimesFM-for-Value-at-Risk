@@ -31,6 +31,9 @@ The fine-tuned model is saved in finetune folder. It can be further used for inc
 ### Requirements
 Ensure you have the necessary dependencies from the TimesFM repository. Refer to the [TimesFM GitHub page](https://github.com/google-research/timesfm) for detailed setup instructions.
 
+### Arxiv link
+Here's the link to the paper (https://doi.org/10.48550/arXiv.2410.11773)
+
 ## License
 This project uses the TimesFM repository from Google, which is subject to its respective license. Please review their license terms for compliance.
 
